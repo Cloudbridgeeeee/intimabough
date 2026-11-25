@@ -1,0 +1,16 @@
+{
+  "name": "IntimaBough",
+  "short_name": "IntimaBough",
+  "description": "AI catalogue enrichment software that converts supplier-approved adult wellness product documentation into consistent, accessible product information.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#170c14",
+  "theme_color": "#170c14",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

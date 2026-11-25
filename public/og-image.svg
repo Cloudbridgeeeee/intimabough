@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="r" cx="0.8" cy="0" r="0.9"><stop offset="0" stop-color="#f28fae" stop-opacity=".35"/><stop offset="1" stop-color="#170c14" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#170c14"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g transform="translate(80 90) scale(1.4)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f28fae"/><stop offset="1" stop-color="#c7a2f0"/></linearGradient></defs><path d="M10 54C10 26 28 8 56 8c0 28-18 46-46 46z" fill="url(#g)"/><path d="M14 50L44 20" stroke="#f6c79c" stroke-width="4" stroke-linecap="round"/></g>
+  <text x="190" y="150" font-family="DM Serif Display, Georgia, serif" font-size="54" font-weight="600" fill="#fbeff4">IntimaBough</text>
+  <text x="80" y="330" font-family="DM Serif Display, Georgia, serif" font-size="72" font-weight="400" fill="#fbeff4">Better adult wellness</text>
+  <text x="80" y="414" font-family="DM Serif Display, Georgia, serif" font-size="72" font-weight="400" fill="#fbeff4">product information.</text>
+  <text x="80" y="560" font-family="monospace" font-size="24" fill="#f28fae" letter-spacing="4">SEXTECH  ·  ECOMMERCE  ·  NATURAL LANGUAGE PROCESSING</text>
+</svg>
