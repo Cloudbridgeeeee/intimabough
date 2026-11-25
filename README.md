@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for IntimaBough.
 - Industry: SexTech, Ecommerce, Natural Language Processing
 - Founder: Favour Izuchukwu (Founder & CEO)
 - Co-founder: Esther Oladipo (Co-founder & CTO)
-- Contact: favour@intimabough.top
+- Contact: favour@intimabough.site
 - Business model: Product catalogue subscriptions
 
 ## Stack
